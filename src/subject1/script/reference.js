@@ -1,9 +1,9 @@
 const reference = [
   {
-    author: "",
-    title: "",
-    year: "",
-    sourceTitle: "",
-    link: "",
+    author: '신혜민',
+    title: '202020289',
+    year: '',
+    sourceTitle: '',
+    link: '',
   },
 ];
